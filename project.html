@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project</title>
+
+    <!-- jquery mobile -->
+	<link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css"/>
+	<script src="script/jquery-1.11.1.min.js"></script>
+	<script src="script/jquery.mobile-1.4.5.min.js"></script>
+
+    <!-- uikit -->
+	<link rel="stylesheet" href="css/uikit/uikit.min.css" />
+	<script src="script/uikit/uikit.min.js"></script>
+	<script src="script/uikit/uikit-icons.min.js"></script>
+
+
+</head>
+<body>
+	<div data-role="page" data-theme="a">
+		<div data-role="header" data-position="fixed" data-theme="a">
+			<a href="index.html" data-icon="arrow-l" data-direction="reverse">돌아가기</a>
+			<h1>프로젝트</h1>
+		</div>
+		<div data-role="content" >
+
+			<button class="uk-button uk-button-default uk-margin" type="button" uk-toggle="target: +" style="font-size: 12pt;">도서 리뷰 사이트(영상)</button>
+			<video src="BookReview.mp4" width="1920" height="1080" controls playsinline hidden uk-video></video>
+
+			<p>
+				사용자가 읽은 도서를 리뷰할 수 있는 사이트입니다.<br>
+				도서들의 정보들을 확인할 수 있고, 사용자가 읽은 도서에 대한 리뷰를 작성할 수 있으며, 사이트에 사용자가 원하는 도서를 추가요청하는 것도 가능합니다.<br>
+				관리자는 사이트에 로그인을 한 후 도서정보를 새로 등록하거나 정보를 수정, 삭제하는 것이 가능합니다.
+			</p>
+				
+		</div>
+		<div data-role="footer" data-theme="a">
+		</div>
+	</div>
+</body>
+</html>
