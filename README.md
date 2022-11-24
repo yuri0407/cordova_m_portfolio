@@ -185,8 +185,8 @@ android:largeHeap="true" 넣기
 >cordova run android  
   (기기에 실행)
   
-[intro app](https://github.com/yuri0407/cordova_introduction_app)
-[chart app](https://github.com/yuri0407/cordova_portfolio_chart)
+[intro app](https://github.com/yuri0407/cordova_introduction_app)  
+[chart app](https://github.com/yuri0407/cordova_portfolio_chart)  
   
-![image](https://user-images.githubusercontent.com/94339489/203670293-90d12202-6bfa-4911-9221-c27208c1d573.jpg)
-![image](https://user-images.githubusercontent.com/94339489/203670344-9e81dd07-8434-4e25-b7cd-ec09d1bfcd83.jpg)
+<img src="https://user-images.githubusercontent.com/94339489/203670293-90d12202-6bfa-4911-9221-c27208c1d573.jpg"  width="200"/>
+<img src="https://user-images.githubusercontent.com/94339489/203670344-9e81dd07-8434-4e25-b7cd-ec09d1bfcd83.jpg" width="200"/>
