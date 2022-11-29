@@ -1,3 +1,17 @@
+# Cordova_m_portfolio
+
+### About
+포트폴리오를 모바일 앱으로 제작한 것입니다.
+
+### Image
+<img src="https://user-images.githubusercontent.com/94339489/203670293-90d12202-6bfa-4911-9221-c27208c1d573.jpg"  height="600"/> <img src="https://user-images.githubusercontent.com/94339489/203670344-9e81dd07-8434-4e25-b7cd-ec09d1bfcd83.jpg" height="600"/>
+
+### Other
+[intro app](https://github.com/yuri0407/cordova_introduction_app)  
+[chart app](https://github.com/yuri0407/cordova_portfolio_chart)  
+
+# 코르도바 앱 환경설정
+
 ## 1. JDK 설치
 jdk-8u162-windows-x64.exe    		<br><br>
 
@@ -184,8 +198,3 @@ android:largeHeap="true" 넣기
   (에뮬레이터에 실행)  <br><br>
 >cordova run android  
   (기기에 실행)
-  
-[intro app](https://github.com/yuri0407/cordova_introduction_app)  
-[chart app](https://github.com/yuri0407/cordova_portfolio_chart)  
-  
-<img src="https://user-images.githubusercontent.com/94339489/203670293-90d12202-6bfa-4911-9221-c27208c1d573.jpg"  height="550"/> <img src="https://user-images.githubusercontent.com/94339489/203670344-9e81dd07-8434-4e25-b7cd-ec09d1bfcd83.jpg" height="550"/>
